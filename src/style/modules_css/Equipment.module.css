@@ -1,0 +1,23 @@
+.equipContainer {
+    width: 45%;
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    font-weight: 400;
+    padding: 2px;
+}
+
+th {
+    font-size: 14px;
+    font-family: 'Rock Salt', sans-serif;
+}

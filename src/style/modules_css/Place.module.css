@@ -1,0 +1,34 @@
+.container {
+    height: 300px;
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.place {
+    position: relative;
+    width: 59%;
+}
+
+.placeImg {
+    position: absolute;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.skin {
+    position: relative;
+    width: 39%;
+}
+
+.skinImg {
+    position: absolute;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
