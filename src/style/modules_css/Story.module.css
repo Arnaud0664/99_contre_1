@@ -3,3 +3,7 @@
     justify-content: space-between;
     margin: 30px 50px 100px 50px;
 }
+
+.nav_equip_container2 {
+    display: none;
+}

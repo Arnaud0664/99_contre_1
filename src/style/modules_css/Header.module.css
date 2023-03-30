@@ -22,7 +22,7 @@ header {
 .headerNav {
     display: flex;
     justify-content: space-between;
-    width: 260px;
+    width: 220px;
     margin-top: 20px;
     font-size: 17px;
 }

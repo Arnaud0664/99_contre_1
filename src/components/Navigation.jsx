@@ -1,21 +1,26 @@
 import styles from '../style/modules_css/Navigation.module.css';
-import flecheG from '../assets/fleche-gauche.png'
-import flecheD from '../assets/fleche-droite (2).png'
+import flecheG from '../assets/fleche-gauche.png';
+import flecheD from '../assets/fleche-droite (2).png';
+import { Link } from 'react-router-dom';
 
-function Navigation() {
-	
+
+function Navigation(props) {
     return (
         <div className= {styles.navBlock}>
-            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ?"</p>
-            <div className= {styles.branches}>
+            <p>{props.question}</p>
+            <div className= {styles.branches} >
                 <div>
-                    <span>réponse 1</span><br />
-                    <img src= {flecheG} alt="flèche gauche" className= {styles.arrowL} />
+                    <span>{props.branche1}</span><br />
+                    <Link to={`/story/${props.destination1}`}>
+                        <img src={flecheG} alt="flèche gauche" className={styles.arrowL} />
+                    </Link>
                 </div>
                 <div>
-                    <span>réponse 2</span><br />
-                    <img src= {flecheD} alt="flèche droite" className= {styles.arrowR} />
-                </div>
+                    <span>{props.branche2}</span><br />
+                    <Link to={`/story/${props.destination2}`}>
+                        <img src={flecheD} alt="flèche droite" className={styles.arrowR} />
+                    </Link>
+                </div>      
             </div>
         </div>
     )

@@ -1,13 +1,15 @@
 import styles from '../style/modules_css/Place.module.css';
-import first from '../assets/nucleair.jpg';
-import skin from '../assets/desert.jpg'
+import skin from '../assets/desert.jpg';
+//import map from '../assets/map.jpg'
 
-function Place() {
-	
+
+function Place(props) {
+    
+    
     return (
         <div className= {styles.container}>
             <div className= {styles.place}>
-                <img src= {first} alt="explosion nucléaire" className= {styles.placeImg} />
+                <img src={`https://${props.img}`} alt='' className= {styles.placeImg} />
             </div>
             <div className= {styles.skin}>
                 <img src= {skin} alt="" className= {styles.skinImg} />

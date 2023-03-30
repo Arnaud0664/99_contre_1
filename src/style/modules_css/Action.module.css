@@ -5,3 +5,18 @@
     border-radius: 10px;
     text-align: center;
 }
+
+.craneBlock {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.crane {
+    width: 100px;
+    height: 100px;
+}
+
+.craneBlock2 {
+    display: none
+}

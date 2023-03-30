@@ -3,7 +3,6 @@ import logo from '../assets/logo.jpg';
 import styles from '../style/modules_css/Header.module.css';
 
 function Header() {
-	
     return (
         <header>
             <div className= {styles.logoDiv}>

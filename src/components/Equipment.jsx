@@ -1,7 +1,6 @@
 import styles from '../style/modules_css/Equipment.module.css';
 
 function Equipment() {
-	
     return (
         <div className= {styles.equipContainer}>
             <table>

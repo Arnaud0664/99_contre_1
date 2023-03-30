@@ -1,10 +1,16 @@
 import styles from '../style/modules_css/Action.module.css';
+import crane from '../assets/le-crane.png';
+import { useParams } from 'react-router';
 
-function Action() {
-	
+function Action(props) {
+    const urlParams = useParams()
     return (
         <div className= {styles.action}>
-            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+            <p>{props.text}</p>
+            <div className= {urlParams.id.match(/m/) ? styles.craneBlock : styles.craneBlock2}>
+                <img src= {crane} alt="tête de mort" className= {styles.crane} />
+                <p>fin</p>
+            </div>
         </div>
     )
 }
