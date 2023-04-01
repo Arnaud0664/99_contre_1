@@ -6,6 +6,10 @@
     text-align: center;
 }
 
+.noTitle {
+    display: none;
+}
+
 .craneBlock {
     display: flex;
     align-items: center;

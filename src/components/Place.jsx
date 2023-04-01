@@ -6,7 +6,7 @@ function Place(props) {
     const [image, setImage] = useState();
     
     useEffect(() => {
-        if (props.skin === null) return;
+        if (props.skin === undefined) return;
         fetch(`https://fortnite-api.com/v2/cosmetics/br/${props.skin}`)
         .then((response) => response.json())
         .then((data) => {

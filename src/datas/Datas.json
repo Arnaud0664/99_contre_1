@@ -1,7 +1,6 @@
 [
 	{
 		"id": "start",
-		"title": "Dernières ruines avant la désolation",
 		"text": "Le chef de ton équipe t'a remis une carte de Dark Dagalur : si tu échoues aujourd'hui, les hordes hostiles s'en empareront définitivement. Voilà les pensées qui t'assaillent en survolant l'île depuis ton bus de combat. Tu te concentres néanmoins sur la mission et tu t'élances dans le vide, armé d'une simple pioche. Ton planeur s'ouvre avec une secousse qui raidit tes muscles. Tu ne sens rien, tu dois ton surnom au sang-froid avec lequel tu prends tes décisions, même sous une pression extrême. Sera-ce encore le cas aujourd'hui pour cette bataille ?",
 		"question": " Où dirige tu ton planeur ?",
 		"branche1": "tu atterris près d'un amas de maisons en ruines",
@@ -85,8 +84,6 @@
 		"text": "Aucun ennemi en vue : tu as le temps d'avaler la potion de bouclier et régénérer ta santé. Mais les autres savent maintenant où tu te trouves, et ne tarderont pas à rappliquer. Ton inventaire bien garni, tu quittes cette ville pourrie.",
 		"branche1": "Tu laisses Mad Manook derrière toi",
 		"destination1":"49",
-		"branche2": "null",
-		"destination2":"null",
 		"shield1":-1,
 		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
 	},
@@ -119,8 +116,6 @@
 		"text": "Tu as été pas mal atteint, et tu n'as plus que 50% de vie. Tu explores la région à la recherche de potions de bouclier, de kits de soin, de bandages mais tu ne trouves rien. Puis tu entres dans une vieille usine effondrée. Ici aussi tout a été rasé. Et pourtant, tu as du bol : à l'autre bout de la pièce, tu découvres un tremplin-ton ticket pour sortir de ce trou à rat ! Tu prends de l'élan, sautes, décolles et ouvres ton planeur.",
 		"branche1": "D'un bond de géant, tu laisses Mad Manook derrière toi.",
 		"destination1":"49",
-		"branche2": "null",
-		"destination2":"null",
 		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
 	},
 	{
@@ -169,8 +164,6 @@
 		"text": "Pendant cinq secondes, le temps que la potion fasse effet, tu es sans défense. Tu passes le cap sans dommage et te voilà bien protégé maintenant. Ca tombe à pic, car une guerrière Chevaleresse rouge se rue dans la maison. Comme tu n'as plus de munitions, tu construis un mur et files à l'étage. Tu trouves trois kits de soins, mais tu n'as malheureusement pas le temps de te soigner tout de suite",
 		"branche1": "Tu prends l'un des kits et reste à l'étage",
 		"destination1":"27",
-		"branche2": "null",
-		"destination2":"null",
 		"shield1":-1,
 		"health1":1,
 		"skin":"CID_034_Athena_Commando_F_Medieval",
@@ -300,8 +293,6 @@
 		"text": "Tu démarres la construction d'un escalier pour accéder à l'étage de la villa, mais à mi-chemin, plus de bois... Tu retournes au jardin en hacher et découvres cinq chamignons derrière un arbre. Tu les ramasses et reprends la construction de l'escalier.",
 		"branche1": "Cette fois, c'est la bonne : tu entres dans la villa !",
 		"destination1":"37",
-		"branche2": "null",
-		"destination2":"null",
 		"mush1":5,
 		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
 	},
@@ -359,11 +350,8 @@
 	{
 		"id": "59",
 		"text": "Tu continues d'avancer dans la chaleur du désert, totalement seul. Contre toute attente, tu tombes sur un kit de soin dans le sable et d'un coup, te retrouves devant cinq cabanes toutes tordues.",
-		"question": "null",
 		"branche1": "Tu fouilles les cabanes",
 		"destination1":"64",
-		"branche2": "null",
-		"destination2":"null",
 		"health1":1,
 		"img":"www.breakflip.com/uploads/AAA/Epic%20Games/Fortnite/Aluqat/vignette-fortnite-saison-5-desert.jpg"
 	},
@@ -516,11 +504,8 @@
 	{
 		"id": "77",
 		"text": "Sans gourde du brave, tu te contentes d'un kit de soin. Ainsi ragaillardi, la traversée du désert devient une promenade du dimanche... presque. A l'horizon, tu aperçois les premiers contours d'une ville. Tu consultes ta carte : il s'agit de Dark Dagalur...",
-		"question": "null",
 		"branche1": "Tu soignes tes plaies et mets le cap sur la ville",
 		"destination1":"81",
-		"branche2": "null",
-		"destination2":"null",
 		"healthG":-1,
 		"img":"cdn2.unrealengine.com/Fortnite%2Fblog%2Fsurvive-thunder-route-99%2FStW03_AridSurvival_Screenshot_02-1280x720-d5f870e60328fd6983604df5814c3f9b4ecfad36.jpg"
 	},
@@ -538,11 +523,8 @@
 	{
 		"id": "79",
 		"text": "Derrière une maison à moitié délabrée, tu trouves une quantité impressionnante de champignons ! tu en cueilles quelques-uns. Il y a également un ennemi en skin funky qui bondit de derrière un arbre. La maison est trop loin, tu construis un mur pour amortir ses tirs, et ripostes. Le type n'oppose pas une longue résistance, tu lui prends ses munitions, deux packs.",
-		"question": "null",
 		"branche1": "Tu marches en direction de Dark Dagalur",
 		"destination1":"81",
-		"branche2": "null",
-		"destination2":"null",
 		"mushG":2,
 		"ammoG":2,
 		"skin":"CID_038_Athena_Commando_M_Disco",
@@ -554,8 +536,6 @@
 		"question": "La ville a besoin d'hommes forts !",
 		"branche1": "Si tu as des champignons ou des pommes, mange-les. Sinon, c'est affaibli que tu te diriges vers la ville",
 		"destination1":"81",
-		"branche2": "null",
-		"destination2":"null",
 		"apple1":-2,
 		"mush1":-2,
 		"ammo1":2,
@@ -565,11 +545,8 @@
 	{
 		"id": "81",
 		"text": "Tu arrives dans une zone industrielle désaffectée aux portes de Dark Dagalur. Tu parcours les rues d'un pas calme et constant, à l'affût. Mais personne ne tire. Tu enfonces la porte d'un hangar. Il semble vide; pourtant tu finis par découvrir une porte cachée, suivie d'un escalier menant à une cave. Une première pièce s'ouvre sur un tunnel, et là par terre... Un fusil de chasse bleu ! Pour pouvoir le prendre sans te surcharger, tu réorganises ton inventaire, tu en as tout le temps. Tu t'apprêtais à repartir lorsque tu fais une découverte bien plus légendaire : un portail se profile au bout du tunnel !",
-		"question": "null",
 		"branche1": "Tu traverses le portail et prends congé (sans regret) de cette zone",
 		"destination1":"107",
-		"branche2": "null",
-		"destination2":"null",
 		"img":"cdn2.unrealengine.com/Fortnite%2Fblog%2Fsurvive-thunder-route-99%2FStW03_AridSurvival_Screenshot_02-1280x720-d5f870e60328fd6983604df5814c3f9b4ecfad36.jpg"
 	},
 	{
@@ -673,11 +650,6 @@
 	{
 		"id": "m124",
 		"text": "Ce lama, c'est le ciel qui te l'a envoyé ! Il regorge de cadeaux : tremplin, munitions, champignons, pommes, pièges, gourde... A la hâte, tu rassembles le tout. Tu prends également une balle en pleine tête, un sniper te guettait depuis la maison voisine. Ce lama, c'est l'enfer qui te l'a envoyé...",
-		"question": "null",
-		"branche1": "null",
-		"destination1":"null",
-		"branche2": "null",
-		"destination2":"null",
 		"img":"assets.fortnitecreativehq.com/wp-content/uploads/2023/01/19223028/screen_comp-1199-jpeg.webp"
 
 	},
@@ -714,11 +686,8 @@
 	{
 		"id": "129",
 		"text": "Tu n'aimes pas tirer en embuscade, mais parfois la fin justifie les moyens. Dix combattants commencent à t'assiéger, tu appuies sur la détente, un premier s'écroule, suivit d'un second en skin Casse-noisette. Puis c'est le tour de deux ladies, deux terreur fluo, suivies de deux autres types. Mais le vent tourne : les quatre guerriers restants se sont retranchés et te canardent. Tes murs sont en métal, mais ne te protègeront pas éternellement.",
-		"question": "null",
 		"branche1": "Passe au lance-missile !",
 		"destination1":"132",
-		"branche2": "null",
-		"destination2":"null",
 		"ammoG":-2,
 		"skin":"CID_044_Athena_Commando_F_SciPop",
 		"img":"container-vlz-uploads.s3.eu-west-3.amazonaws.com/my_thumb_list/rudbhnQvlpjs.jpg"
@@ -730,8 +699,6 @@
 		"question": "Les trois meilleurs guerriers pour la finale !",
 		"branche1": "Donne tout ! Passe au lance-missile !",
 		"destination1":"132",
-		"branche2": "null",
-		"destination2":"null",
 		"reboundG":-1,
 		"grenadeG":-2,
 		"img":"container-vlz-uploads.s3.eu-west-3.amazonaws.com/my_thumb_list/rudbhnQvlpjs.jpg"

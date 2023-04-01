@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom';
 function Navigation(props) {
     return (
         <div className= {styles.navBlock}>
-            <p>{props.question}</p>
+            <p>{props.question === undefined ? null : props.question}</p>
             <div className= {styles.branches} >
                 <div>
                     <span>{props.branche1}</span><br />
@@ -15,10 +15,14 @@ function Navigation(props) {
                         <img src={flecheG} alt="flèche gauche" className={styles.arrowL} />
                     </Link>
                 </div>
-                <div>
-                    <span>{props.branche2}</span><br />
-                    <Link to={`/story/${props.destination2}`}>
-                        <img src={flecheD} alt="flèche droite" className={styles.arrowR} />
+                <div>{/*s'il n'y a pas de branche2, le texte, le lien et l'image sont désactivés*/}
+                    <span>{props.branche2 === null ? null : props.branche2}</span><br />
+                    <Link to={props.branche2 === undefined ? null : `/story/${props.destination2}`}>
+                        <img 
+                        src={props.branche2 === undefined ? null : flecheD} 
+                        alt='' 
+                        className={props.branche2 === undefined ? null : styles.arrowR}
+                        />
                     </Link>
                 </div>      
             </div>
