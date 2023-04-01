@@ -14,7 +14,7 @@ function Story() {
 
     return (
         <>
-            <Place img= {thisStory.img} />
+            <Place img= {thisStory.img} skin={thisStory.skin} />
             <Action text={thisStory.text}/>
             <div className= {urlParams.id.match(/m/) || urlParams.id.match(/132/) ? styles.nav_equip_container2 : styles.nav_equip_container}>
                 <Navigation 

@@ -76,7 +76,7 @@
 		"grenades1":-2,
 		"ammo2":2,
 		"grenades2":-2,
-		"skin1":"oblivion",
+		"skin":"CID_153_Athena_Commando_F_CarbideBlack",
 		"question": "As-tu une potion de bouclier ?",
 		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
 	},
@@ -110,7 +110,7 @@
 		"destination1":"46",
 		"branche2": "Non",
 		"destination2":"47",
-		"skin1":"CID_A_110_Athena_Commando_M_AlienTrooper/featured.png",
+		"skin":"CID_A_110_Athena_Commando_M_AlienTrooper",
 		"question": "As-tu une potion de shield ?",
 		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
 	},
@@ -134,7 +134,7 @@
 		"ammo1":1,
 		"boogie2":1,
 		"shield2":1,
-		"skin1":"CID_071_Athena_Commando_M_Wukong/featured.png",
+		"skin":"CID_071_Athena_Commando_M_Wukong",
 		"question": "Mais maintenant, déguerpis de là !",
 		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
 	},
@@ -147,7 +147,7 @@
 		"destination2":"47",
 		"boogie1":-1,
 		"boogie2":-1,
-		"skin1":"CID_170_Athena_Commando_F_Luchador/featured.png",
+		"skin":"CID_170_Athena_Commando_F_Luchador",
 		"question": "As-tu une potion de bouclier ?",
 		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
 	},
@@ -173,7 +173,7 @@
 		"destination2":"null",
 		"shield1":-1,
 		"health1":1,
-		"skin1":"CID_034_Athena_Commando_F_Medieval/featured.png",
+		"skin":"CID_034_Athena_Commando_F_Medieval",
 		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
 	},
 	{
@@ -260,7 +260,7 @@
 		"branche2": "Tu construis un escalier et montes au grenier de la villa",
 		"destination2":"32",
 		"apple1":2,
-		"skin1":"CID_168_Athena_Commando_M_Shark/featured.png",
+		"skin":"CID_168_Athena_Commando_M_Shark",
 		"question": "Alors ?",
 		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
 	},
@@ -326,7 +326,7 @@
 		"destination2":"62",
 		"pumpG":1,
 		"ammoG":1,
-		"skin1":"cid_020_athena_commando_m/icon.png",
+		"skin":"cid_020_athena_commando_m",
 		"img":"www.breakflip.com/uploads/AAA/Epic%20Games/Fortnite/Aluqat/vignette-fortnite-saison-5-desert.jpg"
 	},
 	{
@@ -353,8 +353,7 @@
 		"healthG":1,
 		"shieldG":1,
 		"trapG":1,
-		"skin1":"CID_023_Athena_Commando_F/featured.png",
-		"skin2":"CID_077_Athena_Commando_M_Sup/featured.png",
+		"skin":"CID_077_Athena_Commando_M_Sup",
 		"img":"www.breakflip.com/uploads/AAA/Epic%20Games/Fortnite/Aluqat/vignette-fortnite-saison-5-desert.jpg"
 	},
 	{
@@ -420,7 +419,7 @@
 		"branche2": "Non",
 		"destination2":"72",
 		"ammoG":-1,
-		"skin1":"CID_040_Athena_Commando_M_District/featured.png",
+		"skin":"CID_040_Athena_Commando_M_District",
 		"img":"www.breakflip.com/uploads2/Azilliz/2020/Novembre/Fortnite/fortnite-helicopteres-emplacement.jpg"
 	},
 	{
@@ -432,8 +431,7 @@
 		"branche2": "Tu attends : bientôt, tu entends des pas se rapprocher...",
 		"destination2":"75",
 		"ammoG":2,
-		"skin1":"CID_112_Athena_Commando_M_Brite/featured.png",
-		"skin2":"CID_025_Athena_Commando_M/featured.png",
+		"skin":"CID_112_Athena_Commando_M_Brite",
 		"img":"cdn2.unrealengine.com/Fortnite%2Fblog%2Fsurvive-thunder-route-99%2FStW03_AridSurvival_Screenshot_02-1280x720-d5f870e60328fd6983604df5814c3f9b4ecfad36.jpg"
 	},
 	{
@@ -450,8 +448,7 @@
 		"branche2": "Non...",
 		"destination2":"77",
 		"ammoG":-1,
-		"skin1":"CID_034_Athena_Commando_F_Medieval/featured.png",
-		"skin2":"CID_084_Athena_Commando_M_Assassin/featured.png",
+		"skin":"CID_084_Athena_Commando_M_Assassin",
 		"img":"cdn2.unrealengine.com/Fortnite%2Fblog%2Fsurvive-thunder-route-99%2FStW03_AridSurvival_Screenshot_02-1280x720-d5f870e60328fd6983604df5814c3f9b4ecfad36.jpg"
 	},
 	{
@@ -464,8 +461,7 @@
 		"destination2":"77",
 		"ammoG":1,
 		"healthG":1,
-		"skin1":"CID_034_Athena_Commando_F_Medieval/featured.png",
-		"skin2":"CID_084_Athena_Commando_M_Assassin/featured.png",
+		"skin":"CID_084_Athena_Commando_M_Assassin",
 		"img":"pbs.twimg.com/media/FZJAGc2aMAA5ClV?format=jpg&name=large"
 	},
 	{
@@ -514,7 +510,7 @@
 		"destination2":"80",
 		"ammoG":-1,
 		"grenadeG":2,
-		"skin1":"CID_109_Athena_Commando_M_Pizza/featured.png",
+		"skin":"CID_109_Athena_Commando_M_Pizza",
 		"img":"cdn2.unrealengine.com/Fortnite%2Fblog%2Fsurvive-thunder-route-99%2FStW03_AridSurvival_Screenshot_02-1280x720-d5f870e60328fd6983604df5814c3f9b4ecfad36.jpg"
 	},
 	{
@@ -549,7 +545,7 @@
 		"destination2":"null",
 		"mushG":2,
 		"ammoG":2,
-		"skin1":"CID_038_Athena_Commando_M_Disco/featured.png",
+		"skin":"CID_038_Athena_Commando_M_Disco",
 		"img":"cdn2.unrealengine.com/Fortnite%2Fblog%2Fsurvive-thunder-route-99%2FStW03_AridSurvival_Screenshot_02-1280x720-d5f870e60328fd6983604df5814c3f9b4ecfad36.jpg"
 	},
 	{
@@ -610,7 +606,7 @@
 		"huntingG":1,
 		"ammoG":2,
 		"healthG":-1,
-		"skin1":"CID_152_Athena_Commando_F_CarbideOrange/featured.png",
+		"skin":"CID_152_Athena_Commando_F_CarbideOrange",
 		"img":"container-vlz-uploads.s3.eu-west-3.amazonaws.com/my_thumb_list/hPfIqbns6a4i.jpg"
 
 	},
@@ -636,8 +632,7 @@
 		"destination2":"127",
 		"ammoG":-3,
 		"grenadeG":-1,
-		"skin1":"CID_108_Athena_Commando_M_Fishhead/featured.png",
-		"skin2":"CID_070_Athena_Commando_M_Cupid/featured.png",
+		"skin":"CID_070_Athena_Commando_M_Cupid",
 		"img":"static1.millenium.org/articles/5/31/12/95/@/701811-fort-article_list_m-1.jpg"
 	},
 	{
@@ -648,7 +643,7 @@
 		"destination1":"124",
 		"branche2": "Tu utilise le lama comme appât et te mets à l'affût",
 		"destination2":"122",
-		"skin1":"CID_021_Athena_Commando_F/featured.png",
+		"skin":"CID_021_Athena_Commando_F",
 		"img":"container-vlz-uploads.s3.eu-west-3.amazonaws.com/my_thumb_list/hPfIqbns6a4i.jpg"
 	},
 	{
@@ -672,7 +667,7 @@
 		"destination2":"131",
 		"ammoG":-1,
 		"reboundG":3,
-		"skin1":"CID_025_Athena_Commando_M/featured.png",
+		"skin":"CID_025_Athena_Commando_M",
 		"img":"container-vlz-uploads.s3.eu-west-3.amazonaws.com/my_thumb_list/rudbhnQvlpjs.jpg"
 	},
 	{
@@ -725,8 +720,7 @@
 		"branche2": "null",
 		"destination2":"null",
 		"ammoG":-2,
-		"skin1":"CID_050_Athena_Commando_M_HolidayNutcracker/featured.png",
-		"skin2":"CID_044_Athena_Commando_F_SciPop/featured.png",
+		"skin":"CID_044_Athena_Commando_F_SciPop",
 		"img":"container-vlz-uploads.s3.eu-west-3.amazonaws.com/my_thumb_list/rudbhnQvlpjs.jpg"
 
 	},
@@ -746,8 +740,7 @@
 	{
 		"id": "132",
 		"text": "Grâce à ton lance-missile, le nombre de tes ennemis s'est réduit à deux. L'un des combattants porte le skin Présage, l'autre Attrappe-mouches. Ce sont d'imposants guerriers, avec certainement quelques batailles au compteur. Tu passes au fusil de chasse, et à l'aide de grenades, tu maintiens tes adversaires à bonne distance. Puis tu fonds sur Attrappe-mouche, le combat au corps à corps, c'est ta spécialité. C'est pourtant lui qui te touche le premier, et tes points de vie descendent rapidement. Tu sautes comme un cabri pour parer ces attaques et ce faisant, tu construis un escalier. D'en haut, la position est meilleure : tu reprends ton fusil sniper, vises et tires à plusieurs reprises, l'obligeant à construire à la hâte un mur en bois. D'une grenade, tu formes un trou dans le mur, créant une ligne de tir qui lui sera fatale. Mais déjà, Présage prend le relais. Il a construit une tour qui surplombe ton escalier et t'envoie une grêle de balle, réduisant ton bouclier en allumettes. Ton lance-roquette crible la tour : tu as maintenant ton opposant en pleine ligne de mire. Un tir, puis deux, puis trois le font tomber à genou. Une dernière grenade et c'est la victoire royale ! Dark Dagalur est nettoyée des clans adverses ! Les Justes ont une nouvelle patrie.  ",
-		"skin1":"CID_141_Athena_Commando_M_DarkEagle/featured.png",
-		"skin2":"CID_132_Athena_Commando_M_Venus/featured.png",
+		"skin":"CID_132_Athena_Commando_M_Venus",
 		"img":"i.ytimg.com/vi/uNI99KvTA2Q/maxresdefault.jpg"
 	}
 ]
