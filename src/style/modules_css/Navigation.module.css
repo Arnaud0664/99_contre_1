@@ -1,6 +1,6 @@
 .navBlock {
     font-family: 'Alkatra', sans-serif;
-    width: 45%;
+    width: 50%;
     font-size: 20px;
     border-radius: 10px;
     text-align: center;
@@ -9,6 +9,10 @@
 .branches {
     display: flex;
     justify-content: space-around;
+}
+
+.brancheG {
+    width: 80%;
 }
 
 .arrowL {

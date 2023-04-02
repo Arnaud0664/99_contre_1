@@ -10,7 +10,6 @@ function Header() {
             </div>
             <nav className= {styles.headerNav}>
 				<Link to="/">Accueil</Link>
-				<Link to="/about">Point de sauvegarde</Link>
 		    </nav>
         </header>
     )
