@@ -11,8 +11,14 @@
     justify-content: space-around;
 }
 
-.brancheG {
-    width: 80%;
+.branche1 {
+    width: 50%;
+}
+
+.branche_button {
+    border: none;
+    background-color: inherit;
+    cursor: pointer;
 }
 
 .arrowL {

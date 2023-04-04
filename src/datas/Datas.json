@@ -265,8 +265,8 @@
 		"branche2": "Tu construis un escalier pour accéder à l'étage et récupérer plus de butin",
 		"destination2":"37",
 		"grenade1":2,
-		"apple1":-2,
-		"apple2":-2,
+		"apple1L":2,
+		"apple2L":2,
 		"question": "Que décides-tu",
 		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
 	},
@@ -352,7 +352,7 @@
 		"text": "Tu continues d'avancer dans la chaleur du désert, totalement seul. Contre toute attente, tu tombes sur un kit de soin dans le sable et d'un coup, te retrouves devant cinq cabanes toutes tordues.",
 		"branche1": "Tu fouilles les cabanes",
 		"destination1":"64",
-		"health1":1,
+		"healthG":1,
 		"img":"www.breakflip.com/uploads/AAA/Epic%20Games/Fortnite/Aluqat/vignette-fortnite-saison-5-desert.jpg"
 	},
 	{
@@ -534,12 +534,11 @@
 		"id": "80",
 		"text": "La ville, Dark Dagalur, est toute proche. En amont se dresse un hameau de trois maisons. Tu t'y précipites : à l'intérieur de l'une d'elle, tu trouves deux paquets de munitions.",
 		"question": "La ville a besoin d'hommes forts !",
-		"branche1": "Si tu as des champignons ou des pommes, mange-les. Sinon, c'est affaibli que tu te diriges vers la ville",
+		"branche1": "tu te diriges vers la ville, si tu as des champignons ou des pommes, mange-les",
 		"destination1":"81",
-		"apple1":-2,
-		"mush1":-2,
-		"ammo1":2,
-		"ammo2":2,
+		"appleGL":2,
+		"mushGL":2,
+		"ammoG":2,
 		"img":"cdn2.unrealengine.com/Fortnite%2Fblog%2Fsurvive-thunder-route-99%2FStW03_AridSurvival_Screenshot_02-1280x720-d5f870e60328fd6983604df5814c3f9b4ecfad36.jpg"
 	},
 	{
@@ -662,7 +661,7 @@
 		"branche2": "Le lance-missile veut entrer en scène",
 		"destination2":"132",
 		"rocketG":1,
-		"sniperGoldG":1,
+		"sniperG":1,
 		"ammoG":-3,
 		"grenadeG":2,
 		"img":"container-vlz-uploads.s3.eu-west-3.amazonaws.com/my_thumb_list/rudbhnQvlpjs.jpg"
@@ -677,7 +676,7 @@
 		"branche2": "Sniper chargé, tu attends la prochaine attaque",
 		"destination2":"129",
 		"rocketG":1,
-		"sniperGoldG":1,
+		"sniperG":1,
 		"ammoG":2,
 		"grenadeG":2,
 		"img":"container-vlz-uploads.s3.eu-west-3.amazonaws.com/my_thumb_list/rudbhnQvlpjs.jpg"
