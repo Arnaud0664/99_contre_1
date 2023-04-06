@@ -9,8 +9,21 @@ import { useState } from 'react';
 
 
 function Story() {
-    const [apple, setApple] = useState(0);
-    
+    const [apple, addApple] = useState(0);
+    const [mush, addMush] = useState(0);
+    const [health, addHealth] = useState(0);
+    const [shield, addShield] = useState(0);
+    const [gourd, addGourd] = useState(0);
+    const [ammo, addAmmo] = useState(0);
+    const [grenade, addGrenade] = useState(0);
+    const [boogie, addBoogie] = useState(0);
+    const [trap, addTrap] = useState(0);
+    const [AR, addAR] = useState(0);
+    const [pump, addPump] = useState(0);
+    const [hunting, addHunting] = useState(0);
+    const [sniper, addSniper] = useState(0);
+    const [rocket, addRocket] = useState(0);
+    const [rebound, addRebound] = useState(0);
 
     const urlParams = useParams();
     const thisPage = datas.find(({ id }) => id === urlParams.id);
@@ -27,39 +40,55 @@ function Story() {
                 destination1={thisPage.destination1}
                 destination2={thisPage.destination2}
                 question={thisPage.question}
+
                 apple={apple}
-                setApple={setApple}
-
-                /*appleG={thisPage.appleG}
-                mushG={thisPage.mushG}
-                healthG={thisPage.kitG}
-                gourdG={thisPage.gourdG}
-                ammoG={thisPage.ammoG}
-                grenadeG={thisPage.grenadeG}
-                boogieG={thisPage.boogieG}
-                pumpG={thisPage.pumpG}               
-                huntingG={thisPage.huntingG}
-                sniperG={thisPage.sniperG}
-                rocketG={thisPage.rocketG}
-                reboundG={thisPage.reboundG}
-
-                apple1={thisPage.appleG}
-                mush1={thisPage.mushG}
-                health1={thisPage.kitG}
-                ammo1={thisPage.ammoG}
-                grenade1={thisPage.grenadeG}
-                boogie1={thisPage.boogieG}
-                AR1={thisPage.ARG}
-                
-                apple2={thisPage.appleG}
-                mush2={thisPage.mushG}
-                health2={thisPage.kitG}
-                ammo2={thisPage.ammoG}
-                grenade2={thisPage.grenadeG}
-                boogie2={thisPage.boogieG}
-                AR2={thisPage.ARG}*/
+                addApple={addApple}
+                mush={mush}
+                addMush={addMush}
+                health={health}
+                addHealth={addHealth}
+                shield={shield}
+                addShield={addShield}
+                gourd={gourd}
+                addGourd={addGourd}
+                ammo={ammo}
+                addAmmo={addAmmo}
+                grenade={grenade}
+                addGrenade={addGrenade}
+                boogie={boogie}
+                addBoogie={addBoogie}
+                trap={trap}
+                addTrap={addTrap}
+                AR={AR}
+                addAR={addAR}
+                pump={pump}
+                addPump={addPump}               
+                hunting={hunting}
+                addHunting={addHunting}
+                sniper={sniper}
+                addSniper={addSniper}
+                rocket={rocket}
+                addRocket={addRocket}
+                rebound={rebound}
+                addRebound={addRebound}
                 />
-                <Equipment apple={apple} />
+                <Equipment 
+                apple={apple}
+                mush={mush}
+                health={health}
+                shield={shield}
+                gourd={gourd}
+                ammo={ammo}
+                grenade={grenade}
+                boogie={boogie}
+                trap={trap}
+                AR={AR}
+                pump={pump}
+                hunting={hunting}
+                sniper={sniper}
+                rocket={rocket}
+                rebound={rebound}
+                />
             </div>
         </>
     )
