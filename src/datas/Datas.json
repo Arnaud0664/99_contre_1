@@ -244,15 +244,16 @@
 	},
 	{
 		"id": "40",
-		"text": "Avec ton fusil, tu cribles de balles la première canaille, vêtu d'un skin oblivion, et te diriges vers les limites de la ville; là, tu te mets à l'abri derrière un camion renversé. Les balles ennemies rebondissent sur cette protection. D'un bond, tu sors de ta cachette et élimine d'une salve bien nourrie une femme en skin destinée. De nouveau à l'abri, tu balances une grenade à l'aveugle par-dessus le camion, et fais le tour du véhicule : l'un des attaquants parvient in extremis à se dissimuler derrière une voiture, mais le second, surpris, est fauché par ta dernière grenade. Malgré un feu nourri dans tous les sens, tu abats le dernier survivant sans mal. Hélas, le butin est aussi minable que les guerriers : deux lots de munitions au total.",
+		"text": "Avec ton fusil, tu cribles de balles la première canaille, vêtu d'un skin oblivion, et te diriges vers les limites de la ville; là, tu te mets à l'abri derrière un camion renversé. Les balles ennemies rebondissent sur cette protection. D'un bond, tu sors de ta cachette et élimine d'une salve une femme en skin destinée. De nouveau à l'abri, tu balances une grenade à l'aveugle par-dessus le camion, et fais le tour du véhicule : l'un des attaquants parvient in extremis à se dissimuler derrière une voiture, mais le second, surpris, est fauché par ta dernière grenade. Malgré un feu nourri dans tous les sens, tu abats le dernier survivant sans mal. Hélas, le butin est aussi minable que les guerriers : deux lots de munitions au total.",
 		"branche1": "Oui : tu gagnes 50 points de shield",
 		"destination1":"46",
 		"branche2": "Non",
 		"destination2":"47",
 		"ammo1":2,
-		"grenade1":-2,
+		"shield1L":1,
+		"grenade1L":2,
 		"ammo2":2,
-		"grenade2":-2,
+		"grenade2L":2,
 		"skin":"CID_153_Athena_Commando_F_CarbideBlack",
 		"question": "As-tu une potion de bouclier ?",
 		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
@@ -286,7 +287,6 @@
 		"text": "Aucun ennemi en vue : tu as le temps d'avaler la potion de bouclier et régénérer ta santé. Mais les autres savent maintenant où tu te trouves, et ne tarderont pas à rappliquer. Ton inventaire bien garni, tu quittes cette ville pourrie.",
 		"branche1": "Tu laisses Mad Manook derrière toi",
 		"destination1":"49",
-		"shield1L":1,
 		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
 	},
 	{

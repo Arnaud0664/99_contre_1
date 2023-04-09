@@ -21,49 +21,49 @@ function Equipment(props) {
         <div className= {styles.equipContainer}>
             <div className={styles.iconContainer}>
                 <div className={styles.icon}>
-                    <img src={apple} alt="" className={styles.iconTabContent} />
+                    <img src={apple} alt="pomme" className={styles.iconTabContent} />
                 </div>
                 <div className={styles.icon}>
-                    <img src={mush} alt="" className={styles.iconTabContent} />
+                    <img src={mush} alt="champignon" className={styles.iconTabContent} />
                 </div>
                 <div className={styles.icon}>
-                    <img src={kit} alt="" className={styles.iconTabContent} />
+                    <img src={kit} alt="trousse de soin" className={styles.iconTabContent} />
                 </div>
                 <div className={styles.icon}>
-                    <img src={shield} alt="" className={styles.iconTabContent} />
+                    <img src={shield} alt="potion de bouclier" className={styles.iconTabContent} />
                 </div>
                 <div className={styles.icon}>
-                    <img src={gourd} alt="" className={styles.iconTabContent} />
+                    <img src={gourd} alt="gourde" className={styles.iconTabContent} />
                 </div>
                 <div className={styles.icon}>
-                    <img src={ammo} alt="" className={styles.iconTabContent} />
+                    <img src={ammo} alt="munitions" className={styles.iconTabContent} />
                 </div>
                 <div className={styles.icon}>
-                    <img src={grenade} alt="" className={styles.iconTabContent} />
+                    <img src={grenade} alt="grenade" className={styles.iconTabContent} />
                 </div>
                 <div className={styles.icon}>
-                    <img src={boogie} alt="" className={styles.iconTabContent} />
+                    <img src={boogie} alt="grenade boogie" className={styles.iconTabContent} />
                 </div>
                 <div className={styles.icon}>
-                    <img src={trap} alt="" className={styles.iconTabContent} />
+                    <img src={trap} alt="piège" className={styles.iconTabContent} />
                 </div>
                 <div className={styles.icon}>
-                    <img src={rafale} alt="" className={styles.iconTabContent} />
+                    <img src={rafale} alt="fusil" className={styles.iconTabContent} />
                 </div>
                 <div className={styles.icon}>
-                    <img src={pump} alt="" className={styles.iconTabContent} />
+                    <img src={pump} alt="fusil à pompe" className={styles.iconTabContent} />
                 </div>
                 <div className={styles.icon}>
-                    <img src={hunt} alt="" className={styles.iconTabContent} />
+                    <img src={hunt} alt="fusil de chasse" className={styles.iconTabContent} />
                 </div>
                 <div className={styles.icon}>
-                    <img src={sniper} alt="" className={styles.iconTabContent} />
+                    <img src={sniper} alt="fusil sniper" className={styles.iconTabContent} />
                 </div>
                 <div className={styles.icon}>
-                    <img src={rocket} alt="" className={styles.iconTabContent} />
+                    <img src={rocket} alt="lance-missile" className={styles.iconTabContent} />
                 </div>
                 <div className={styles.icon}>
-                    <img src={rebound} alt="" className={styles.iconTabContent} />
+                    <img src={rebound} alt="rebondisseur" className={styles.iconTabContent} />
                 </div>
             </div>
             <table>
@@ -89,7 +89,7 @@ function Equipment(props) {
                         <td>{props.gourd}</td>
                     </tr>
                     <tr>
-                        <th>munitions</th>
+                        <th>munition</th>
                         <td>{props.ammo}</td>
                     </tr>
                     <tr>
