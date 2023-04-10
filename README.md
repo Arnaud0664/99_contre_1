@@ -2,7 +2,7 @@
 
 ## À propos
 
-[Projet destiné à me perfectionner sur l'utilisation de React, il s'agit de l'adaptation du livre "Une aventure Fortnite dont vous êtes le héros !" en application monopage]
+[Projet destiné à me perfectionner sur l'utilisation de React, il s'agit de l'adaptation du livre "Une aventure Fortnite dont vous êtes le héros !" en application monopage NON RESPONSIVE]
 
 ## Table des matières
 
@@ -23,7 +23,7 @@
 
 ### Langages & Frameworks
 
-[Html,Css,Javascript,React,Bootstrap]
+[Html,Css,Javascript,React]
 
 
 
