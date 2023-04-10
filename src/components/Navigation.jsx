@@ -58,7 +58,8 @@ function Navigation(props) {
                                 Link.preventDefault();
                                 alert("tu n'as pas de gourde...")
                             }
-                        }}>
+                        }}
+                    >
                         {(thisPage.id === "27" && props.AR < 1) ||/* au clic sur une destination bloquée, le butin n'est pas ajouté */
                         (thisPage.id === "33" && props.grenade < 1) ||
                         (thisPage.id === "40" && props.shield < 1) ||
@@ -104,7 +105,8 @@ function Navigation(props) {
                                     if(thisPage.rocket1) props.addRocket(props.rocket + thisPage.rocket1);
                                     if(thisPage.rebound1) props.addRebound(props.rebound + thisPage.rebound1);
                                     if(thisPage.rebound1L) props.addRebound(props.rebound - thisPage.rebound1L);
-                                }}>
+                                }}
+                            >
                                 <img src={flecheG} alt="flèche gauche" className={styles.arrowL} />
                             </button>
                         }
@@ -155,7 +157,8 @@ function Navigation(props) {
                                 Link.preventDefault();
                                 alert("tu as une gourde...")
                             }
-                        }}>
+                        }}
+                    >
                         {(thisPage.id === "27" && props.AR > 0) ||
                         (thisPage.id === "64" && props.grenade > 0) ||
                         (thisPage.id === "40" && props.shield > 0) ||
@@ -201,7 +204,8 @@ function Navigation(props) {
                                     if(thisPage.rocket2) props.addRocket(props.rocket + thisPage.rocket2);
                                     if(thisPage.rebound2) props.addRebound(props.rebound + thisPage.rebound2);
                                     if(thisPage.rebound2L) props.addRebound(props.rebound - thisPage.rebound2L);
-                                }}>
+                                }}
+                            >
                                 <img 
                                 src={props.branche2 === undefined ? null : flecheD} 
                                 alt='' 

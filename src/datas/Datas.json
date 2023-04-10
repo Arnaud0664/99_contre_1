@@ -8,7 +8,7 @@
 		"branche2": "tu atterris à l'écart des maisons détruites dans les Wild Woods",
 		"destination2":"13",
 		"skin":"CID_031_Athena_Commando_M_Retro",
-		"img":"www.eclypsia.com/wp-content/uploads/eclypsia/2022/12/MapC3.jpg"
+		"img":"https://www.eclypsia.com/wp-content/uploads/eclypsia/2022/12/MapC3.jpg"
 	},
 	{
 		"id": "10",
@@ -22,7 +22,7 @@
 		"AR1":1,
 		"ammo1":1,
 		"question": "Qu'emportes-tu ?",
-		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
+		"img":"https://www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
 	},
 	{
 		"id": "13",
@@ -32,7 +32,7 @@
 		"branche2": "Tu préfères construire un mur de protection",
 		"destination2":"16",
 		"question": "Tu découvres soudain un kit de soin.",
-		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
+		"img":"https://www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
 	},
 	{
 		"id": "15",
@@ -42,7 +42,7 @@
 		"branche2": "Non, tu retournes à l'abri",
 		"destination2":"22",
 		"question": "Quinze points de vie supplémentaires : ça vaut quelques risques, non ?",
-		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
+		"img":"https://www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
 	},
 	{
 		"id": "16",
@@ -54,7 +54,7 @@
 		"AR1":1,
 		"ammo1":1,
 		"question": "Que prends-tu ?",
-		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
+		"img":"https://www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
 	},
 	{
 		"id": "17",
@@ -67,7 +67,7 @@
 		"shield1":1,
 		"ammo2L":1,
 		"question": "Que fais-tu ?",
-		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
+		"img":"https://global-img.gamergen.com/fortnite-patch-notes-v4-2-overview-text-v4-2-epic-legendaryburstassaultrifle-1920x1080-0dbeac0359176cfa28fa418c2f1ac8d2007a7e8f_0900894284.jpg"
 	},
 	{
 		"id": "19",
@@ -77,7 +77,7 @@
 		"shield1":-1,
 		"health1":1,
 		"skin":"CID_034_Athena_Commando_F_Medieval",
-		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
+		"img":"https://www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
 	},
 	{
 		"id": "20",
@@ -92,7 +92,7 @@
 		"ammo2":2,
 		"apple2":3,
 		"question": "Prends-tu le temps de t'en emparer ?",
-		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
+		"img":"https://www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
 	},
 	{
 		"id": "22",
@@ -102,12 +102,14 @@
 		"branche2": "Tu contournes la cabane et t'abrites derrière",
 		"destination2":"30",
 		"question": "La suite ?",
-		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
+		"health1": 1,
+		"health2": 1,
+		"img":"https://www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
 	},
 	{
 		"id": "m24",
 		"text": "Voici enfin le kit de soin, posé au milieu de la clairière ! Tu cours tout droit, à découvert. Juste avant d'atteindre ton but, tu fais un bond de côté : tu évites une roquette d'un cheveu. Rapide comme l'éclair tu saisis le kit. Mais tandis que tu reviens sur tes pas, la chance t'abandonne : tu n'as pas de bouclier et contre une grenade, même Cold Blood ne peut rien... ",
-		"img":"www.eclypsia.com/wp-content/uploads/eclypsia/2022/12/Detruire_Arbres_1.png"
+		"img":"https://www.eclypsia.com/wp-content/uploads/eclypsia/2022/12/Detruire_Arbres_1.png"
 	},
 	{
 		"id": "25",
@@ -119,7 +121,7 @@
 		"apple1":2,
 		"skin":"CID_168_Athena_Commando_M_Shark",
 		"question": "Alors ?",
-		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
+		"img":"https://global-img.gamergen.com/fortnite-patch-notes-v4-2-overview-text-v4-2-epic-legendaryburstassaultrifle-1920x1080-0dbeac0359176cfa28fa418c2f1ac8d2007a7e8f_0900894284.jpg"
 	},
 	{
 		"id": "27",
@@ -134,7 +136,7 @@
 		"ammo2":1,
 		"grenade2":2,
 		"question": "As-tu déjà un fusil rafale ?",
-		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
+		"img":"https://www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
 	},
 	{
 		"id": "28",
@@ -147,7 +149,7 @@
 		"ammo1":1,
 		"grenade2":3,
 		"question": "Où vas-tu ?",
-		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
+		"img":"https://www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
 	},
 	{
 		"id": "30",
@@ -163,7 +165,7 @@
 		"health2":1,
 		"mush2":3,
 		"question": "Tu rassembles le tout, il est temps de passer à l'attaque.",
-		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
+		"img":"https://www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
 	},
 	{
 		"id": "31",
@@ -176,7 +178,7 @@
 		"apple1L":2,
 		"apple2L":2,
 		"question": "Que décides-tu",
-		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
+		"img":"https://www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
 	},
 	{
 		"id": "32",
@@ -184,7 +186,7 @@
 		"branche1": "Cette fois, c'est la bonne : tu entres dans la villa !",
 		"destination1":"37",
 		"mush1":5,
-		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
+		"img":"https://www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
 	},
 	{
 		"id": "33",
@@ -194,7 +196,7 @@
 		"branche2": "Non...",
 		"destination2":"44",
 		"question": "As-tu des grenades ?",
-		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
+		"img":"https://www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
 	},
 	{
 		"id": "34",
@@ -209,7 +211,7 @@
 		"shield2":1,
 		"skin":"CID_071_Athena_Commando_M_Wukong",
 		"question": "Mais maintenant, déguerpis de là !",
-		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
+		"img":"https://www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
 	},
 	{
 		"id": "35",
@@ -222,7 +224,7 @@
 		"ammo1":1,
 		"boogie2":1,
 		"question": "Tu ne peux récupérer que l'un des butins des deux adversaires.",
-		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
+		"img":"https://www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
 	},
 	{
 		"id": "37",
@@ -240,7 +242,7 @@
 		"AR2":1,
 		"ammo2":1,
 		"question": "Que fais-tu ?",
-		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
+		"img":"https://www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
 	},
 	{
 		"id": "40",
@@ -256,7 +258,7 @@
 		"grenade2L":2,
 		"skin":"CID_153_Athena_Commando_F_CarbideBlack",
 		"question": "As-tu une potion de bouclier ?",
-		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
+		"img":"https://global-img.gamergen.com/fortnite-patch-notes-v4-2-overview-text-v4-2-epic-legendaryburstassaultrifle-1920x1080-0dbeac0359176cfa28fa418c2f1ac8d2007a7e8f_0900894284.jpg"
 	},
 	{
 		"id": "42",
@@ -269,32 +271,32 @@
 		"boogie2L":-1,
 		"skin":"CID_170_Athena_Commando_F_Luchador",
 		"question": "As-tu une potion de bouclier ?",
-		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
+		"img":"https://prod.assets.earlygamecdn.com/images/boogie-bombs.jpg?mtime=1658419882"
 	},
 	{
 		"id": "44",
-		"text": "Quatre adversaires, un fusil rafale et plein de munitions-tu es vraiment à la fête. Tu ne te caches même pas, tu cherches plutôt à les exaspérer en dansant un petit groove pour les provoquer. Le guerrier de gauche, le premier à perdre ses nerfs, se rue sur toi-pour s'effondrer à terre une seconde plus tard, victime de ta précision diabolique. Deux autres guerriers, tous deux en skin soldat alien, s'unissent contre toi. Tu les élimines d'une bordée de balles. Le quatrième, un peu plus expérimenté, construit un mur de protection et t'attend derrière. Cela ne suffira pas, une balle dans la tête signifie la fin de sa partie.",
+		"text": "Quatre adversaires, un fusil rafale et plein de munitions-tu es vraiment à la fête. Tu ne te caches même pas, tu cherches plutôt à les exaspérer en dansant un petit groove pour les provoquer. Le guerrier de gauche, le premier à perdre ses nerfs, se rue sur toi-pour s'effondrer à terre une seconde plus tard, victime de ta précision diabolique. Deux autres guerriers, tous deux en skin Lucien West, s'unissent contre toi. Tu les élimines d'une bordée de balles. Le quatrième, un peu plus expérimenté, construit un mur de protection et t'attend derrière. Cela ne suffira pas, une balle dans la tête signifie la fin de sa partie.",
 		"branche1": "Oui",
 		"destination1":"46",
 		"branche2": "Non",
 		"destination2":"47",
-		"skin":"CID_A_110_Athena_Commando_M_AlienTrooper",
+		"skin":"character_sparrow",
 		"question": "As-tu une potion de shield ?",
-		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
+		"img":"https://www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
 	},
 	{
 		"id": "46",
 		"text": "Aucun ennemi en vue : tu as le temps d'avaler la potion de bouclier et régénérer ta santé. Mais les autres savent maintenant où tu te trouves, et ne tarderont pas à rappliquer. Ton inventaire bien garni, tu quittes cette ville pourrie.",
 		"branche1": "Tu laisses Mad Manook derrière toi",
 		"destination1":"49",
-		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
+		"img":"https://www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
 	},
 	{
 		"id": "47",
 		"text": "Tu as été pas mal atteint, et tu n'as plus que 50% de vie. Tu explores la région à la recherche de potions de bouclier, de kits de soin, de bandages mais tu ne trouves rien. Puis tu entres dans une vieille usine effondrée. Ici aussi tout a été rasé. Et pourtant, tu as du bol : à l'autre bout de la pièce, tu découvres un tremplin-ton ticket pour sortir de ce trou à rat ! Tu prends de l'élan, sautes, décolles et ouvres ton planeur.",
 		"branche1": "D'un bond de géant, tu laisses Mad Manook derrière toi.",
 		"destination1":"49",
-		"img":"www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
+		"img":"https://www.breakflip.com/uploads/6270eb9876270-tilted-towers-detruit-fortnite.jpg"
 	},
 	{
 		"id": "49",
@@ -305,11 +307,11 @@
 		"destination1":"52",
 		"branche2": "Tu maintiens le cap vers la Zone et poursuis ton chemin",
 		"destination2":"54",
-		"img":"www.breakflip.com/uploads/AAA/Epic%20Games/Fortnite/Aluqat/vignette-fortnite-saison-5-desert.jpg"
+		"img":"https://www.breakflip.com/uploads/AAA/Epic%20Games/Fortnite/Aluqat/vignette-fortnite-saison-5-desert.jpg"
 	},
 	{
 		"id": "52",
-		"text": "Les vagues contours devant toi se rapprochent, peu à peu se détache la silhouette d'un violent combattant en skin Forces Spéciales, muni d'un fusil à pompe. Tu te terres derrière une dunes, mais il t'as vu : un tir retentit, du sable gicle à un mètre de toi. Tu te relèves, vise et atteins ton opposant. Tu prends ensuite possession de son fusil à pompe et ses munitions.",
+		"text": "Les vagues contours devant toi se rapprochent, peu à peu se détache la silhouette d'un violent combattant en skin Chaos, muni d'un fusil à pompe. Tu te terres derrière une dunes, mais il t'as vu : un tir retentit, du sable gicle à un mètre de toi. Tu te relèves, vise et atteins ton opposant. Tu prends ensuite possession de son fusil à pompe et ses munitions.",
 		"question": "Que fais-tu ensuite ?",
 		"branche1": "Tu continues dans la même direction",
 		"destination1":"61",
@@ -319,8 +321,8 @@
 		"pump2":1,
 		"ammo1":1,
 		"ammo2":1,
-		"skin":"cid_020_athena_commando_m",
-		"img":"www.breakflip.com/uploads/AAA/Epic%20Games/Fortnite/Aluqat/vignette-fortnite-saison-5-desert.jpg"
+		"skin":"cid_090_athena_commando_m_tactical",
+		"img":"https://cdn1.dotesports.com/wp-content/uploads/2021/03/16114737/fortnite-pump-shotgun-1920x1080-0a2d495b051e-1024x576.jpg"
 	},
 	{
 		"id": "54",
@@ -334,7 +336,7 @@
 		"pump2":1,
 		"ammo1":1,
 		"ammo2":1,
-		"img":"www.breakflip.com/uploads/AAA/Epic%20Games/Fortnite/Aluqat/vignette-fortnite-saison-5-desert.jpg"
+		"img":"https://cdn1.dotesports.com/wp-content/uploads/2021/03/16114737/fortnite-pump-shotgun-1920x1080-0a2d495b051e-1024x576.jpg"
 	},
 	{
 		"id": "57",
@@ -353,7 +355,7 @@
 		"trap1":1,
 		"trap2":1,
 		"skin":"CID_077_Athena_Commando_M_Sup",
-		"img":"www.breakflip.com/uploads/AAA/Epic%20Games/Fortnite/Aluqat/vignette-fortnite-saison-5-desert.jpg"
+		"img":"https://www.breakflip.com/uploads/AAA/Epic%20Games/Fortnite/Aluqat/vignette-fortnite-saison-5-desert.jpg"
 	},
 	{
 		"id": "59",
@@ -361,7 +363,7 @@
 		"branche1": "Tu fouilles les cabanes",
 		"destination1":"64",
 		"health1":1,
-		"img":"www.breakflip.com/uploads/AAA/Epic%20Games/Fortnite/Aluqat/vignette-fortnite-saison-5-desert.jpg"
+		"img":"https://www.breakflip.com/uploads/AAA/Epic%20Games/Fortnite/Aluqat/vignette-fortnite-saison-5-desert.jpg"
 	},
 	{
 		"id": "61",
@@ -371,7 +373,7 @@
 		"destination1":"65",
 		"branche2": "Tu charges ton arme et tu tires",
 		"destination2":"66",
-		"img":"www.breakflip.com/uploads/AAA/Epic%20Games/Fortnite/Aluqat/vignette-fortnite-saison-5-desert.jpg"
+		"img":"https://www.breakflip.com/uploads/AAA/Epic%20Games/Fortnite/Aluqat/vignette-fortnite-saison-5-desert.jpg"
 	},
 	{
 		"id": "62",
@@ -380,8 +382,8 @@
 		"branche1": "Tu tentes ta chance et te diriges vers l'oasis",
 		"destination1":"66",
 		"branche2": "L'oasis n'est pas indiquée sur ta carte, c'est sûrement un mirage. Tu maintiens ton cap",
-		"destination2":"68",
-		"img":"www.breakflip.com/uploads/AAA/Epic%20Games/Fortnite/Aluqat/vignette-fortnite-saison-5-desert.jpg"
+		"destination2":"m68",
+		"img":"https://www.breakflip.com/uploads/AAA/Epic%20Games/Fortnite/Aluqat/vignette-fortnite-saison-5-desert.jpg"
 	},
 	{
 		"id": "63",
@@ -391,7 +393,7 @@
 		"destination1":"69",
 		"branche2": "Tu construis un mur de protection et ouvres le feu ",
 		"destination2":"70",
-		"img":"pbs.twimg.com/media/FZJAGc2aMAA5ClV?format=jpg&name=large"
+		"img":"https://pbs.twimg.com/media/FZJAGc2aMAA5ClV?format=jpg&name=large"
 	},
 	{
 		"id": "64",
@@ -407,7 +409,7 @@
 		"ammo2":1,
 		"gourd1":1,
 		"gourd2":1,
-		"img":"pbs.twimg.com/media/FZJAGc2aMAA5ClV?format=jpg&name=large"
+		"img":"https://pbs.twimg.com/media/FZJAGc2aMAA5ClV?format=jpg&name=large"
 	},
 	{
 		"id": "65",
@@ -420,7 +422,7 @@
 		"ammo1":1,
 		"ammo2":1,
 		"skin":"CID_040_Athena_Commando_M_District",
-		"img":"www.breakflip.com/uploads2/Azilliz/2020/Novembre/Fortnite/fortnite-helicopteres-emplacement.jpg"
+		"img":"https://www.breakflip.com/uploads2/Azilliz/2020/Novembre/Fortnite/fortnite-helicopteres-emplacement.jpg"
 	},
 	{
 		"id": "66",
@@ -433,16 +435,16 @@
 		"ammo1":2,
 		"ammo2":2,
 		"skin":"CID_112_Athena_Commando_M_Brite",
-		"img":"cdn2.unrealengine.com/Fortnite%2Fblog%2Fsurvive-thunder-route-99%2FStW03_AridSurvival_Screenshot_02-1280x720-d5f870e60328fd6983604df5814c3f9b4ecfad36.jpg"
+		"img":"https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fsurvive-thunder-route-99%2FStW03_AridSurvival_Screenshot_02-1280x720-d5f870e60328fd6983604df5814c3f9b4ecfad36.jpg"
 	},
 	{
 		"id": "m68",
 		"text": "Tu marches et marches sans t'arrêter, la langue pendante. A chaque pas, le doute te gagne un peu plus : ces palmiers à l'horizon n'étaient peut-être pas un mirage... Tu veux rebrousser chemin, mais tu suis la mauvaise trace. Des heures durant, tu tournes en rond. Tu finis par trébucher, complètement désorienté. Tes PV fondent comme neige au soleil-la victoire royale, tu peux oublier...",
-		"img":"static1.millenium.org/articles/5/32/63/85/@/935856-cactus-article_m-1.jpg"
+		"img":"https://static1.millenium.org/articles/5/32/63/85/@/935856-cactus-article_m-1.jpg"
 	},
 	{
 		"id": "69",
-		"text": "Tu gis sur le sable brûlant. Insouciant, le couple se dirige vers toi, elle en skin Chevaleresse, lui en Faucheur. Au moment où ils te marchent presque dessus, tu te dresses d'un bond et tires. La femme vide son revolver sur toi, l'homme son sniper. Ils finissent par s'effondrer dans le sable, mais tu as pris cher : ton bouclier est presque détruit, il te reste seulement 30% de PV. Il faut te régénérer au plus vite.",
+		"text": "Tu gis sur le sable brûlant. Insouciant, le couple se dirige vers toi, elle en skin Chevaleresse, lui en Gentil Maraudeur. Au moment où ils te marchent presque dessus, tu te dresses d'un bond et tires. La femme vide son revolver sur toi, l'homme son sniper. Ils finissent par s'effondrer dans le sable, mais tu as pris cher : ton bouclier est presque détruit, il te reste seulement 30% de PV. Il faut te régénérer au plus vite.",
 		"question": "As-tu une gourde du brave ?",
 		"branche1": "Oui, abrite-toi derrière des arbres",
 		"destination1":"78",
@@ -450,8 +452,8 @@
 		"destination2":"77",
 		"ammo1L":1,
 		"ammo2L":1,
-		"skin":"CID_084_Athena_Commando_M_Assassin",
-		"img":"cdn2.unrealengine.com/Fortnite%2Fblog%2Fsurvive-thunder-route-99%2FStW03_AridSurvival_Screenshot_02-1280x720-d5f870e60328fd6983604df5814c3f9b4ecfad36.jpg"
+		"skin":"cid_049_athena_commando_m_holidaygingerbread",
+		"img":"https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fsurvive-thunder-route-99%2FStW03_AridSurvival_Screenshot_02-1280x720-d5f870e60328fd6983604df5814c3f9b4ecfad36.jpg"
 	},
 	{
 		"id": "70",
@@ -465,8 +467,8 @@
 		"ammo2":1,
 		"health1":1,
 		"health2":1,
-		"skin":"CID_084_Athena_Commando_M_Assassin",
-		"img":"pbs.twimg.com/media/FZJAGc2aMAA5ClV?format=jpg&name=large"
+		"skin":"cid_049_athena_commando_m_holidaygingerbread",
+		"img":"https://pbs.twimg.com/media/FZJAGc2aMAA5ClV?format=jpg&name=large"
 	},
 	{
 		"id": "71",
@@ -482,7 +484,7 @@
 		"apple2":2,
 		"gourd1":1,
 		"gourd2":1,
-		"img":"pbs.twimg.com/media/FZJAGc2aMAA5ClV?format=jpg&name=large"
+		"img":"https://pbs.twimg.com/media/FZJAGc2aMAA5ClV?format=jpg&name=large"
 	},
 	{
 		"id": "72",
@@ -498,7 +500,7 @@
 		"apple2":2,
 		"boogie1":1,
 		"boogie2":1,
-		"img":"cdn2.unrealengine.com/Fortnite%2Fblog%2Fsurvive-thunder-route-99%2FStW03_AridSurvival_Screenshot_02-1280x720-d5f870e60328fd6983604df5814c3f9b4ecfad36.jpg"
+		"img":"https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fsurvive-thunder-route-99%2FStW03_AridSurvival_Screenshot_02-1280x720-d5f870e60328fd6983604df5814c3f9b4ecfad36.jpg"
 	},
 	{
 		"id": "74",
@@ -508,7 +510,7 @@
 		"destination1":"78",
 		"branche2": "Si non, précipite-toi vers la ville voisine",
 		"destination2":"80",
-		"img":"cdn2.unrealengine.com/Fortnite%2Fblog%2Fsurvive-thunder-route-99%2FStW03_AridSurvival_Screenshot_02-1280x720-d5f870e60328fd6983604df5814c3f9b4ecfad36.jpg"
+		"img":"https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fsurvive-thunder-route-99%2FStW03_AridSurvival_Screenshot_02-1280x720-d5f870e60328fd6983604df5814c3f9b4ecfad36.jpg"
 	},
 	{
 		"id": "75",
@@ -523,7 +525,7 @@
 		"grenade1":2,
 		"grenade2":2,
 		"skin":"CID_109_Athena_Commando_M_Pizza",
-		"img":"cdn2.unrealengine.com/Fortnite%2Fblog%2Fsurvive-thunder-route-99%2FStW03_AridSurvival_Screenshot_02-1280x720-d5f870e60328fd6983604df5814c3f9b4ecfad36.jpg"
+		"img":"https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fsurvive-thunder-route-99%2FStW03_AridSurvival_Screenshot_02-1280x720-d5f870e60328fd6983604df5814c3f9b4ecfad36.jpg"
 	},
 	{
 		"id": "77",
@@ -531,7 +533,7 @@
 		"branche1": "Tu soignes tes plaies et mets le cap sur la ville",
 		"destination1":"81",
 		"health1L":1,
-		"img":"cdn2.unrealengine.com/Fortnite%2Fblog%2Fsurvive-thunder-route-99%2FStW03_AridSurvival_Screenshot_02-1280x720-d5f870e60328fd6983604df5814c3f9b4ecfad36.jpg"
+		"img":"https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fsurvive-thunder-route-99%2FStW03_AridSurvival_Screenshot_02-1280x720-d5f870e60328fd6983604df5814c3f9b4ecfad36.jpg"
 	},
 	{
 		"id": "78",
@@ -543,7 +545,7 @@
 		"destination2":"79",
 		"gourd1L":1,
 		"gourd2L":1,
-		"img":"cdn2.unrealengine.com/Fortnite%2Fblog%2Fsurvive-thunder-route-99%2FStW03_AridSurvival_Screenshot_02-1280x720-d5f870e60328fd6983604df5814c3f9b4ecfad36.jpg"
+		"img":"https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fsurvive-thunder-route-99%2FStW03_AridSurvival_Screenshot_02-1280x720-d5f870e60328fd6983604df5814c3f9b4ecfad36.jpg"
 	},
 	{
 		"id": "79",
@@ -553,7 +555,7 @@
 		"mush1":2,
 		"ammo1":2,
 		"skin":"CID_038_Athena_Commando_M_Disco",
-		"img":"cdn2.unrealengine.com/Fortnite%2Fblog%2Fsurvive-thunder-route-99%2FStW03_AridSurvival_Screenshot_02-1280x720-d5f870e60328fd6983604df5814c3f9b4ecfad36.jpg"
+		"img":"https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fsurvive-thunder-route-99%2FStW03_AridSurvival_Screenshot_02-1280x720-d5f870e60328fd6983604df5814c3f9b4ecfad36.jpg"
 	},
 	{
 		"id": "80",
@@ -564,14 +566,15 @@
 		"apple1L":2,
 		"mush1L":2,
 		"ammo1":2,
-		"img":"cdn2.unrealengine.com/Fortnite%2Fblog%2Fsurvive-thunder-route-99%2FStW03_AridSurvival_Screenshot_02-1280x720-d5f870e60328fd6983604df5814c3f9b4ecfad36.jpg"
+		"img":"https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fsurvive-thunder-route-99%2FStW03_AridSurvival_Screenshot_02-1280x720-d5f870e60328fd6983604df5814c3f9b4ecfad36.jpg"
 	},
 	{
 		"id": "81",
-		"text": "Tu arrives dans une zone industrielle désaffectée aux portes de Dark Dagalur. Tu parcours les rues d'un pas calme et constant, à l'affût. Mais personne ne tire. Tu enfonces la porte d'un hangar. Il semble vide; pourtant tu finis par découvrir une porte cachée, suivie d'un escalier menant à une cave. Une première pièce s'ouvre sur un tunnel, et là par terre... Un fusil de chasse bleu ! Pour pouvoir le prendre sans te surcharger, tu réorganises ton inventaire, tu en as tout le temps. Tu t'apprêtais à repartir lorsque tu fais une découverte bien plus légendaire : un portail se profile au bout du tunnel !",
+		"text": "Tu arrives dans une zone industrielle désaffectée aux portes de Dark Dagalur. Tu parcours les rues d'un pas calme et constant, à l'affût. Mais personne ne tire. Tu enfonces la porte d'un hangar. Il semble vide; pourtant tu finis par découvrir une porte cachée, suivie d'un escalier menant à une cave. Une première pièce s'ouvre sur un tunnel, et là par terre... Un fusil de chasse ! Pour pouvoir le prendre sans te surcharger, tu réorganises ton inventaire, tu en as tout le temps. Tu t'apprêtais à repartir lorsque tu fais une découverte bien plus légendaire : un portail se profile au bout du tunnel !",
 		"branche1": "Tu traverses le portail et prends congé (sans regret) de cette zone",
 		"destination1":"107",
-		"img":"cdn2.unrealengine.com/Fortnite%2Fblog%2Fsurvive-thunder-route-99%2FStW03_AridSurvival_Screenshot_02-1280x720-d5f870e60328fd6983604df5814c3f9b4ecfad36.jpg"
+		"hunting1":1,
+		"img":"https://static1.millenium.org/articles/7/28/92/87/@/323255-carab-article_image_t-2.jpg"
 	},
 	{
 		"id": "107",
@@ -582,7 +585,7 @@
 		"destination1":"109",
 		"branche2": "Tu as d'abord besoin d'un lance-roquette ! Tu pars à sa recherche",
 		"destination2":"111",
-		"img":"container-vlz-uploads.s3.eu-west-3.amazonaws.com/my_thumb_list/hPfIqbns6a4i.jpg"
+		"img":"https://container-vlz-uploads.s3.eu-west-3.amazonaws.com/my_thumb_list/hPfIqbns6a4i.jpg"
 	},
 	{
 		"id": "109",
@@ -592,7 +595,7 @@
 		"destination1":"113",
 		"branche2": "côté ville",
 		"destination2":"115",
-		"img":"static1.millenium.org/articles/5/31/12/95/@/701811-fort-article_list_m-1.jpg"
+		"img":"https://static1.millenium.org/articles/5/31/12/95/@/701811-fort-article_list_m-1.jpg"
 
 	},
 	{
@@ -612,7 +615,7 @@
 		"health1L":1,
 		"health2L":1,
 		"skin":"CID_152_Athena_Commando_F_CarbideOrange",
-		"img":"container-vlz-uploads.s3.eu-west-3.amazonaws.com/my_thumb_list/hPfIqbns6a4i.jpg"
+		"img":"https://www.breakflip.com/uploads/Azilliz/Armes%20%26%20Objets%20Chapitre%202/lance-roquette-legendaire.jpg"
 
 	},
 	{
@@ -627,7 +630,7 @@
 		"ammo2L":3,
 		"grenade1L":1,
 		"grenade2L":1,
-		"img":"static1.millenium.org/articles/5/31/12/95/@/701811-fort-article_list_m-1.jpg"
+		"img":"https://static1.millenium.org/articles/5/31/12/95/@/701811-fort-article_list_m-1.jpg"
 	},
 	{
 		"id": "115",
@@ -642,30 +645,30 @@
 		"grenade1L":1,
 		"grenade2L":1,
 		"skin":"CID_070_Athena_Commando_M_Cupid",
-		"img":"static1.millenium.org/articles/5/31/12/95/@/701811-fort-article_list_m-1.jpg"
+		"img":"https://static1.millenium.org/articles/5/31/12/95/@/701811-fort-article_list_m-1.jpg"
 	},
 	{
 		"id": "118",
 		"text": "Arme à la main, tu arpentes les rues de Dark Dagalur. Par deux fois, tu tombes sur des ennemis, par deux fois tu rafles la mise... En revanche, pas de butin. Au coin d'une rue, tu déranges des guerriers en train de se construire un nid. Tu en envoies deux au tapis, le troisième, une femme en skin bagarreuse, bondit derrière un mur et reste cachée plusieurs minutes. Elle finit par se redresser-son dernier geste. Tu poursuis ta route après avoir récupéré ses munitions. C'est alors que tu rencontres une apparition-plus exactement un lama ! L'animal rare attend dans une rue transversale.",
 		"question": "Que fais-tu ?",
 		"branche1": "Tu récupères le trésor du lama",
-		"destination1":"124",
+		"destination1":"m124",
 		"branche2": "Tu utilise le lama comme appât et te mets à l'affût",
 		"destination2":"122",
 		"skin":"CID_021_Athena_Commando_F",
-		"img":"container-vlz-uploads.s3.eu-west-3.amazonaws.com/my_thumb_list/hPfIqbns6a4i.jpg"
+		"img":"https://container-vlz-uploads.s3.eu-west-3.amazonaws.com/my_thumb_list/hPfIqbns6a4i.jpg"
 	},
 	{
 		"id": "120",
 		"text": "Tu ne tardes pas à tomber sur leur repaire. Ils ont érigés une véritable forteresse de pierre et de métal. Entrer là-dedans ? tu peux oublier. Tu choisis donc de te camoufler dans l'immeuble en face pourvu de multiples fenêtres, et guettes des mouvements ennemis. Dix secondes plus tard, un type surgit sur la tour : tu le salues de deux missiles. Soudain, c'est toi qui essuies des tirs, de partout ! Courbé en deux, tu gagnes la pièce voisine, descends un escalier en sprint et sors de l'immeuble par l'arrière. Avant de te retirer, tu envoies encore deux autres missiles sur la forteresse. Et voilà que, dans une rue adjacente, tu repères... un lama ! L'endroit n'est pas sécurisé, mais tu brûles de piller cet animal rare.",
 		"question": "Oui ou non ?",
 		"branche1": "Tu cours vers le lama",
-		"destination1":"124",
+		"destination1":"m124",
 		"branche2": "Tu te concentres sur ta survie",
 		"destination2":"122",
 		"ammo1L":2,
 		"ammo2L":2,
-		"img":"container-vlz-uploads.s3.eu-west-3.amazonaws.com/my_thumb_list/hPfIqbns6a4i.jpg"
+		"img":"https://container-vlz-uploads.s3.eu-west-3.amazonaws.com/my_thumb_list/hPfIqbns6a4i.jpg"
 	},
 	{
 		"id": "122",
@@ -679,12 +682,12 @@
 		"rebound1":3,
 		"rebound2":2,
 		"skin":"CID_025_Athena_Commando_M",
-		"img":"container-vlz-uploads.s3.eu-west-3.amazonaws.com/my_thumb_list/rudbhnQvlpjs.jpg"
+		"img":"https://image.jeuxvideo.com/medias-sm/153915/1539150745-3590-logo.png"
 	},
 	{
 		"id": "m124",
 		"text": "Ce lama, c'est le ciel qui te l'a envoyé ! Il regorge de cadeaux : tremplin, munitions, champignons, pommes, pièges, gourde... A la hâte, tu rassembles le tout. Tu prends également une balle en pleine tête, un sniper te guettait depuis la maison voisine. Ce lama, c'est l'enfer qui te l'a envoyé...",
-		"img":"assets.fortnitecreativehq.com/wp-content/uploads/2023/01/19223028/screen_comp-1199-jpeg.webp"
+		"img":"https://assets.fortnitecreativehq.com/wp-content/uploads/2023/01/19223028/screen_comp-1199-jpeg.webp"
 
 	},
 	{
@@ -703,7 +706,7 @@
 		"ammo2L":3,
 		"grenade1":2,
 		"grenade2":2,
-		"img":"container-vlz-uploads.s3.eu-west-3.amazonaws.com/my_thumb_list/rudbhnQvlpjs.jpg"
+		"img":"https://www.breakflip.com/uploads/Azilliz/Armes%20%26%20Objets%20Chapitre%202/lance-roquette-legendaire.jpg"
 
 	},
 	{
@@ -723,7 +726,7 @@
 		"grenade1":2,
 		"grenade2":2,
 		"rebound1L":1,
-		"img":"container-vlz-uploads.s3.eu-west-3.amazonaws.com/my_thumb_list/rudbhnQvlpjs.jpg"
+		"img":"https://container-vlz-uploads.s3.eu-west-3.amazonaws.com/my_thumb_list/rudbhnQvlpjs.jpg"
 
 	},
 	{
@@ -733,7 +736,7 @@
 		"destination1":"132",
 		"ammo1L":2,
 		"skin":"CID_044_Athena_Commando_F_SciPop",
-		"img":"container-vlz-uploads.s3.eu-west-3.amazonaws.com/my_thumb_list/rudbhnQvlpjs.jpg"
+		"img":"https://cdn2.unrealengine.com/fortnite-dragons-breath-sniper-1900x600-988c4aa648fd.jpg"
 
 	},
 	{
@@ -743,13 +746,13 @@
 		"branche1": "Donne tout ! Passe au lance-missile !",
 		"destination1":"132",
 		"grenade1L":2,
-		"img":"container-vlz-uploads.s3.eu-west-3.amazonaws.com/my_thumb_list/rudbhnQvlpjs.jpg"
+		"img":"https://container-vlz-uploads.s3.eu-west-3.amazonaws.com/my_thumb_list/rudbhnQvlpjs.jpg"
 
 	},
 	{
 		"id": "132",
 		"text": "Grâce à ton lance-missile, le nombre de tes ennemis s'est réduit à deux. L'un des combattants porte le skin Présage, l'autre Attrappe-mouches. Ce sont d'imposants guerriers, avec certainement quelques batailles au compteur. Tu passes au fusil de chasse, et à l'aide de grenades, tu maintiens tes adversaires à bonne distance. Puis tu fonds sur Attrappe-mouche, le combat au corps à corps, c'est ta spécialité. C'est pourtant lui qui te touche le premier, et tes points de vie descendent rapidement. Tu sautes comme un cabri pour parer ces attaques et ce faisant, tu construis un escalier. D'en haut, la position est meilleure : tu reprends ton fusil sniper, vises et tires à plusieurs reprises, l'obligeant à construire à la hâte un mur en bois. D'une grenade, tu formes un trou dans le mur, créant une ligne de tir qui lui sera fatale. Mais déjà, Présage prend le relais. Il a construit une tour qui surplombe ton escalier et t'envoie une grêle de balle, réduisant ton bouclier en allumettes. Ton lance-roquette crible la tour : tu as maintenant ton opposant en pleine ligne de mire. Un tir, puis deux, puis trois le font tomber à genou. Une dernière grenade et c'est la victoire royale ! Dark Dagalur est nettoyée des clans adverses ! Les Justes ont une nouvelle patrie.  ",
 		"skin":"CID_132_Athena_Commando_M_Venus",
-		"img":"i.ytimg.com/vi/uNI99KvTA2Q/maxresdefault.jpg"
+		"img":"https://besthqwallpapers.com/Uploads/2-12-2020/147984/thumb2-dread-omen-4k-violet-neon-lights-2020-games-fortnite-battle-royale.jpg"
 	}
 ]
