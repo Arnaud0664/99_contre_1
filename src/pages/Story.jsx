@@ -1,4 +1,4 @@
-import styles from '../style/modules_css/Story.module.css'
+import styles from '../style/modules_css/Story.module.css';
 import Place from "../components/Place";
 import Action from "../components/Action";
 import Equipment from "../components/Equipment";
@@ -6,16 +6,15 @@ import Navigation from "../components/Navigation";
 import datas from '../datas/Datas.json';
 import { useParams, Navigate } from 'react-router';
 import { useState } from 'react';
-
-
-function Story() {
-    const [apple, addApple] = useState(0);
+/* affichage de tous les éléments de l'histoire sur la page */
+function Story() { 
+    const [apple, addApple] = useState(0); 
     const [mush, addMush] = useState(0);
     const [health, addHealth] = useState(0);
     const [shield, addShield] = useState(0);
     const [gourd, addGourd] = useState(0);
     const [ammo, addAmmo] = useState(0);
-    const [grenade, addGrenade] = useState(0);
+    const [grenade, addGrenade] = useState(0);      /* states initialisés pour l'ajout du butin sur le composant Navigation */
     const [boogie, addBoogie] = useState(0);
     const [trap, addTrap] = useState(0);
     const [AR, addAR] = useState(0);
@@ -31,8 +30,9 @@ function Story() {
 
     return (
         <>
-            <Place img= {thisPage.img} skin={thisPage.skin} />
+            <Place img= {thisPage.img} skin={thisPage.skin} /> 
             <Action text={thisPage.text} title={thisPage.title}/>
+            {/* affichage différent pour les pages "mort du personnage" et la page finale */}
             <div className= {urlParams.id.match(/m/) || urlParams.id.match(/132/) ? styles.nav_equip_container2 : styles.nav_equip_container}>
                 <Navigation 
                 branche1={thisPage.branche1} 
@@ -41,14 +41,14 @@ function Story() {
                 destination2={thisPage.destination2}
                 question={thisPage.question}
 
-                apple={apple}
+                apple={apple} 
                 addApple={addApple}
                 mush={mush}
                 addMush={addMush}
                 health={health}
                 addHealth={addHealth}
                 shield={shield}
-                addShield={addShield}
+                addShield={addShield}       /* props de butin remontées... */
                 gourd={gourd}
                 addGourd={addGourd}
                 ammo={ammo}
@@ -73,12 +73,12 @@ function Story() {
                 addRebound={addRebound}
                 />
                 <Equipment 
-                apple={apple}
+                apple={apple} 
                 mush={mush}
                 health={health}
                 shield={shield}
                 gourd={gourd}
-                ammo={ammo}
+                ammo={ammo}             /* ...pour être affichées dans ce composant */
                 grenade={grenade}
                 boogie={boogie}
                 trap={trap}

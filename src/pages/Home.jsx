@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import styles from "../style/modules_css/Home.module.css";
 import first from '../assets/nucleair.jpg';
 import datas from '../datas/Datas.json';
-
+/* introduction à l'aventure */
 function Home() {
     return (
         <>

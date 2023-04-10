@@ -1,7 +1,6 @@
 import styles from '../style/modules_css/Equipment.module.css';
-
+/* affiche le butin dans un tableau avec icones */
 function Equipment(props) {
-    
     return (
         <div className= {styles.equipContainer}>
             <div className={styles.iconContainer}>

@@ -1,7 +1,6 @@
 import styles from '../style/modules_css/Place.module.css';
 import { useEffect, useState } from 'react';
-
-
+/* affichage des images du jeu et des costumes */
 function Place(props) {
     const [character, setCharacter] = useState();
     

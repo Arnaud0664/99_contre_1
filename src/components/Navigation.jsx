@@ -4,14 +4,14 @@ import flecheD from '../assets/fleche-droite (2).png';
 import { Link } from 'react-router-dom';
 import { useParams } from 'react-router';
 import datas from '../datas/Datas.json';
-
+/* affiche le choix demandé aux joueurs et les 2 options de destinations possibles. Contient la logique d'ajout de butin */
 function Navigation(props) {
     const urlParams = useParams();
     const thisPage = datas.find(({ id }) => id === urlParams.id);
 
     return (
         <div className= {styles.navBlock}>
-            <p>{props.question === undefined ? null : props.question}</p>
+            <p>{props.question === undefined ? null : props.question}</p> 
             <div className= {styles.branches} >
                 <div className= {styles.branche1}>
                     <span>{props.branche1}</span><br />
@@ -112,7 +112,7 @@ function Navigation(props) {
                         }
                     </Link>
                 </div>
-                <div>{/* s'il n'y a pas de deuxième chemin, les emplacements pour le texte, le lien et l'image de celui-ci sont masqués */}
+                <div>{/* s'il n'y a pas de deuxième option, les emplacements pour le texte, le lien et l'image de celle-ci sont masqués */}
                     <span>{props.branche2 === null ? null : props.branche2}</span><br />
                     <Link 
                         to={props.branche2 === undefined ? null : `/story/${props.destination2}`} 
