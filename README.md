@@ -16,7 +16,9 @@ un environnement d'exécution(ex : node.js), un éditeur de code
 
 ## Installation
 
-Avec node.js : se placer sur le dossier du projet dans le terminal de votre éditeur de code, puis taper npm start
+Avec node.js : se placer sur le dossier du projet dans le terminal de votre éditeur de code, puis taper :
+-npm i,
+-npm start
 
 ## Construit avec React
 
