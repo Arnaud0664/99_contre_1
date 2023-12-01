@@ -13,7 +13,11 @@ function Place(props) {
         })
     }, [props.skin]);
 
-    if(!character) return <div className={styles.loaderDiv}><div className={styles.spinningCircle}></div></div>
+    if(!character) return 
+    <div className={styles.loaderDiv}>
+        <div className={styles.spinningCircle}></div>
+    </div>
+    
     const skinImg = character.data.images.featured;
     
     return (
